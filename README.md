@@ -1,9 +1,7 @@
 ![7-Tips-To-Write-Clean-And-Better-Code-in-2020](https://user-images.githubusercontent.com/20413644/224536007-b57c4fa7-3068-40cd-a368-7f64a0a5b517.png)
 
 ## Clean Code
-The main purpose of refactoring is to fight technical debt. It transforms a mess into clean code and simple design.
-
-Nice! But what’s clean code, anyway? Here are some of its features:
+Writing clean code is critical for ensuring that software is sustainable, maintainable, and scalable. It promotes collaboration, reduces the likelihood of bugs, and helps developers adapt to changes in requirements. By following principles such as naming conventions, small functions, and DRY, developers can create software that is easier to understand, test, and extend.
 
 #### Clean code is obvious for other programmers.
 
